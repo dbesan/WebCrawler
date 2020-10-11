@@ -1,0 +1,4 @@
+org\testTask\WebCrawler\utils\SearchUtils.class
+org\testTask\WebCrawler\constants\Constants.class
+org\testTask\WebCrawler\utils\WebUtils.class
+org\testTask\WebCrawler\Application.class
